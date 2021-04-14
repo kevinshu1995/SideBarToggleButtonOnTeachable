@@ -1,4 +1,6 @@
 # SideBarToggleButtonOnTeachable
+###### `Tampermonkey` `Teachable` `hexschool`
+
 使用 [Tampermonkey](https://www.tampermonkey.net/)，為 Teachable 增加收合 sidebar 的按鈕，可點畫面右上角的按鈕觸發，也可以同時按下 `ctrl + shift + Z` 鍵觸發
 Use Userscript that add Ctrl-shift-Z keyboard shortcut to toggle Sidebar on Teachable, beacause that sidebar is sooooooo annoying.
 
@@ -11,4 +13,3 @@ Use Userscript that add Ctrl-shift-Z keyboard shortcut to toggle Sidebar on Teac
 
 可以在插件裡面自行新增網址。
 
-###### `Tampermonkey` `Teachable` `hexschool`
