@@ -3,7 +3,7 @@
 
 ## 安裝
 - 安裝 [Tampermonkey Chrome 插件](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- 點此 [連結](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable/raw/main/SideBarToggleButtonOnTeachable.user.js) 安裝
+- 點此 [連結](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable/raw/main/SideBarToggleButtonOnTeachable.user.js) 安裝 Userscript
 
 ## 目前會功能觸發的名單
 - `*://courses.hexschool.com/*`
