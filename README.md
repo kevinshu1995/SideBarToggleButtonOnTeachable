@@ -10,3 +10,5 @@ Use Userscript that add Ctrl-shift-Z keyboard shortcut to toggle Sidebar on Teac
 - `*://courses.hexschool.com/*`
 
 可以在插件裡面自行新增網址。
+
+###### `Tampermonkey` `Teachable` `hexschool`
