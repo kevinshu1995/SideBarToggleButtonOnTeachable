@@ -5,6 +5,12 @@
 
 Use Userscript that add Ctrl-shift-Z keyboard shortcut to toggle Sidebar on Teachable, beacause that sidebar is sooooooo annoying.
 
+- Before download. Do you see the sidebar? Yikes.
+![demo - before download](https://i.imgur.com/qy9fKGB.png)
+
+- After downloaded. Voila！
+![demo - after download](https://i.imgur.com/6CiRLmJ.png)
+
 ## 安裝 Usage
 - Install [Tampermonkey Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - Click the [Link 連結](https://github.com/kevinshu1995/SideBarToggleButtonOnTeachable/raw/main/SideBarToggleButtonOnTeachable.user.js) to install Userscript
